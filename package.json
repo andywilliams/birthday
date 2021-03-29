@@ -1,0 +1,22 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "birthday greetings service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha 'test/**/**/*.spec.js'"
+  },
+  "author": "Andy Williams",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "csv-parse": "^4.15.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.1.0"
+  }
+}

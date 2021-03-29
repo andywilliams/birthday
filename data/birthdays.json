@@ -1,0 +1,18 @@
+[
+  {
+    "last_name": "Williams",
+    "first_name": "Andy",
+    "year": "1981",
+    "month": "03",
+    "day": "03",
+    "email": "andy@foobar.com"
+  },
+  {
+    "last_name": "Katie",
+    "first_name": "Cowell",
+    "year": "1986",
+    "month": "10",
+    "day": "31",
+    "email": "katie@foobar.com"
+  }
+]
