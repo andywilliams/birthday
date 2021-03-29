@@ -4,6 +4,8 @@ To run: `$ node index`
 
 to test: `$ npm test`
 
+to create test `sqllite` data: `$ node createsqldb`
+
 Data is stored in the `data` folder.  Add birthdays in the files stored here.
 
-To switch between data types set the `dataStore` value to either `csv` or `json` in `./config.js`.
+To switch between data types set the `dataStore` value to either `csv`, `json`, or `sqlite` in `./config.js`.

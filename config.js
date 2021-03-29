@@ -1,11 +1,14 @@
 const config = {
   messageBrokers: ['console'],
-  dataStore: 'csv',
+  dataStore: 'sqlite',
   csv: {
     filename: './data/birthdays.csv',
   },
   json: {
     filename: './data/birthdays.json',
+  },
+  sqlite: {
+    filename: './data/birthdays.db',
   },
   logger: {
     level: 'debug',
